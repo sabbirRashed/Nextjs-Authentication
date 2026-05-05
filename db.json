@@ -8,7 +8,8 @@
             "stock": 25,
             "brand": "Logitech",
             "rating": 4.5,
-            "image": "https://example.com/mouse.jpg"
+            "image": "https://example.com/mouse.jpg",
+            "description": "A smooth and responsive wireless mouse with ergonomic design, perfect for everyday use."
         },
         {
             "id": 2,
@@ -18,17 +19,19 @@
             "stock": 15,
             "brand": "Redragon",
             "rating": 4.7,
-            "image": "https://example.com/keyboard.jpg"
+            "image": "https://example.com/keyboard.jpg",
+            "description": "High-performance mechanical keyboard with RGB lighting and durable switches for gaming and typing."
         },
         {
             "id": 3,
-            "name": "Running Shoes",
+            "name": "Sleeping Shoes",
             "category": "fashion",
             "price": 2800,
             "stock": 30,
             "brand": "Nike",
             "rating": 4.3,
-            "image": "https://example.com/shoes.jpg"
+            "image": "https://example.com/shoes.jpg",
+            "description": "Lightweight and comfortable running shoes designed for daily workouts and long-distance runs."
         },
         {
             "id": 4,
@@ -38,7 +41,8 @@
             "stock": 10,
             "brand": "Xiaomi",
             "rating": 4.4,
-            "image": "https://example.com/smartwatch.jpg"
+            "image": "https://example.com/smartwatch.jpg",
+            "description": "Feature-rich smartwatch with fitness tracking, heart rate monitoring, and long battery life."
         },
         {
             "id": 5,
@@ -48,7 +52,8 @@
             "stock": 20,
             "brand": "Wildcraft",
             "rating": 4.2,
-            "image": "https://example.com/backpack.jpg"
+            "image": "https://example.com/backpack.jpg",
+            "description": "Durable and spacious backpack suitable for travel, school, or daily commuting."
         }
     ]
 }
