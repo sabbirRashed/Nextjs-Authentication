@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Rat",
+            "category": "electronics",
+            "price": 1200,
+            "stock": 25,
+            "brand": "Logitech",
+            "rating": 4.5,
+            "image": "https://example.com/mouse.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Mechanical Keyboard",
+            "category": "electronics",
+            "price": 3500,
+            "stock": 15,
+            "brand": "Redragon",
+            "rating": 4.7,
+            "image": "https://example.com/keyboard.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Running Shoes",
+            "category": "fashion",
+            "price": 2800,
+            "stock": 30,
+            "brand": "Nike",
+            "rating": 4.3,
+            "image": "https://example.com/shoes.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Smart Watch",
+            "category": "electronics",
+            "price": 5000,
+            "stock": 10,
+            "brand": "Xiaomi",
+            "rating": 4.4,
+            "image": "https://example.com/smartwatch.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Backpack",
+            "category": "accessories",
+            "price": 1500,
+            "stock": 20,
+            "brand": "Wildcraft",
+            "rating": 4.2,
+            "image": "https://example.com/backpack.jpg"
+        }
+    ]
+}
