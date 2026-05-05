@@ -3,7 +3,7 @@
 const ProductCard = ({ product }) => {
     const { id, name, description, price } = product;
     return (
-        <div className="card bg-primary text-primary-content w-96">
+        <div className="card bg-primary text-primary-content">
             <div className="card-body">
                 <h2 className="card-title">{name}</h2>
                 <p>{description}</p>

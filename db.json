@@ -55,5 +55,95 @@
             "image": "https://example.com/backpack.jpg",
             "description": "Durable and spacious backpack suitable for travel, school, or daily commuting."
         }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "category": "Fiction",
+            "price": 350,
+            "rating": 4.7,
+            "stock": 20,
+            "image": "https://example.com/alchemist.jpg",
+            "description": "A philosophical story about following your dreams and listening to your heart."
+        },
+        {
+            "id": 2,
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "category": "Self-help",
+            "price": 450,
+            "rating": 4.8,
+            "stock": 15,
+            "image": "https://example.com/atomic-habits.jpg",
+            "description": "A guide to building good habits and breaking bad ones through small changes."
+        },
+        {
+            "id": 3,
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert Kiyosaki",
+            "category": "Finance",
+            "price": 400,
+            "rating": 4.6,
+            "stock": 18,
+            "image": "https://example.com/rich-dad-poor-dad.jpg",
+            "description": "Explains financial education and the difference in mindset between rich and poor."
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "category": "Fantasy",
+            "price": 500,
+            "rating": 4.9,
+            "stock": 25,
+            "image": "https://example.com/harry-potter.jpg",
+            "description": "A young wizard discovers his magical world and destiny at Hogwarts."
+        },
+        {
+            "id": 5,
+            "title": "Deep Work",
+            "author": "Cal Newport",
+            "category": "Productivity",
+            "price": 420,
+            "rating": 4.5,
+            "stock": 12,
+            "image": "https://example.com/deep-work.jpg",
+            "description": "Teaches how to focus without distraction and produce high-quality work."
+        },
+        {
+            "id": 6,
+            "title": "Think and Grow Rich",
+            "author": "Napoleon Hill",
+            "category": "Self-help",
+            "price": 380,
+            "rating": 4.6,
+            "stock": 22,
+            "image": "https://example.com/think-grow-rich.jpg",
+            "description": "A classic book on mindset, success principles, and wealth creation."
+        },
+        {
+            "id": 7,
+            "title": "The Subtle Art of Not Giving a F*ck",
+            "author": "Mark Manson",
+            "category": "Self-help",
+            "price": 420,
+            "rating": 4.4,
+            "stock": 17,
+            "image": "https://example.com/subtle-art.jpg",
+            "description": "A blunt guide to focusing on what truly matters in life."
+        },
+        {
+            "id": 8,
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "category": "Programming",
+            "price": 600,
+            "rating": 4.8,
+            "stock": 10,
+            "image": "https://example.com/clean-code.jpg",
+            "description": "A handbook for writing clean, readable, and maintainable code."
+        }
     ]
 }
