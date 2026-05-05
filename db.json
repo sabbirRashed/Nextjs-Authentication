@@ -13,7 +13,7 @@
         },
         {
             "id": 2,
-            "name": "Mechanical Keyboard",
+            "name": "Chamical Rat Board",
             "category": "electronics",
             "price": 3500,
             "stock": 15,
@@ -24,7 +24,7 @@
         },
         {
             "id": 3,
-            "name": "Sleeping Shoes",
+            "name": "Flyling Shoes",
             "category": "fashion",
             "price": 2800,
             "stock": 30,
